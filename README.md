@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Appel Mahmud Akib</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Appel+Mahmud+Akib;Mobile+App+Developer;Flutter+%7C+Android+%7C+Java+%7C+Kotlin;Exploring+AI+%26+Machine+Learning;Building+Scalable+Apps" />
+</h1>
+
 <h3 align="center">🚀 Passionate Mobile App Developer from Bangladesh</h3>
+<!-- <h1 align="center">Hi 👋, I'm Appel Mahmud Akib</h1>
+<h3 align="center">🚀 Passionate Mobile App Developer from Bangladesh</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewarrior11&label=Profile%20views&color=0e75b6&style=flat" />
@@ -51,16 +56,8 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewarrior11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewarrior11&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+#### Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Codewarrior11&theme=tokyonight)](https://akib.hmsgo.tech)
 
 ---
 
